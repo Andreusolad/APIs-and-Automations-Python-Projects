@@ -1,0 +1,10 @@
+PLANNING BEFORE START BUILDING THE WEBSITE
+
+User can see a list of hotels
+User can book a hotel
+User can get a reservation confirmation/ticket
+
+Classes:
+User
+Hotel
+ReservationTicket
